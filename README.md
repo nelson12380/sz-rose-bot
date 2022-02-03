@@ -51,7 +51,7 @@ $ python3 -m DewmiBot
  
 ### 💡 Warning: Use your bot for your personal use only   
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/szsupunma/sz-rose-bot) 
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nelson12380/sz-rose-bot) 
 
 ## Enjoy Your own Bot!
 
